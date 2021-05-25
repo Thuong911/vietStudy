@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T17:09:35.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="CtZmibicpBT3COeS7m7_" version="14.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-25T17:09:41.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bCDJ96s97TcEfOuZy-mC" version="14.7.1" type="github" pages="2">
   <diagram id="whfnYBVNKAkleeC9wQLp" name="Usecase tổng quan">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
           <mxGeometry x="467.5" y="372.5" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x0rMcZrpu31WlR4gszl3-5" value="Sắp xếp bài tập" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;fontSize=20;verticalAlign=middle;align=center;" vertex="1" parent="qy2Nz0984hNXT2fpwASG-1">
-          <mxGeometry x="390" y="490" width="230" height="70" as="geometry" />
+          <mxGeometry x="410" y="480" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x0rMcZrpu31WlR4gszl3-8" value="" style="endArrow=none;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qy2Nz0984hNXT2fpwASG-1" target="x0rMcZrpu31WlR4gszl3-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
