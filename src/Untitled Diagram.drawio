@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T09:08:32.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QZwlJwqnc6FzlnxL1YSw" version="14.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-26T09:08:43.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="R17tArIc-lpgDqahxUZj" version="14.7.1" type="github" pages="3">
   <diagram id="whfnYBVNKAkleeC9wQLp" name="Usecase tổng quan">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,9 +224,9 @@
         <mxCell id="YO8HPOP76xYqDVY_oHqS-7" value="Tạo mới bài kiểm tra" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;sketch=0;fontSize=20;verticalAlign=middle;align=center;" vertex="1" parent="YO8HPOP76xYqDVY_oHqS-1">
           <mxGeometry x="320" y="460" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YO8HPOP76xYqDVY_oHqS-8" value="" style="endArrow=none;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YO8HPOP76xYqDVY_oHqS-1" target="YO8HPOP76xYqDVY_oHqS-6" source="YO8HPOP76xYqDVY_oHqS-3">
+        <mxCell id="YO8HPOP76xYqDVY_oHqS-8" value="" style="endArrow=none;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YO8HPOP76xYqDVY_oHqS-1" target="YO8HPOP76xYqDVY_oHqS-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="370" as="sourcePoint" />
+            <mxPoint x="170" y="430" as="sourcePoint" />
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
