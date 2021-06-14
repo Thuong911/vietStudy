@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T14:19:11.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="0RXqv51B_kU7lm5wIb3Q" version="14.7.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-14T14:52:29.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="WeUNozfPPIAWZC5SG69E" version="14.7.7" type="github" pages="10">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2272" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -528,7 +528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OMEy3b3rf6Ua5UrL9eEg" name="Page-9">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="A3N41Xnlo9Hr5TQRYDhD-0" />
         <mxCell id="A3N41Xnlo9Hr5TQRYDhD-1" parent="A3N41Xnlo9Hr5TQRYDhD-0" />
@@ -555,6 +555,26 @@
         </mxCell>
         <mxCell id="A3N41Xnlo9Hr5TQRYDhD-9" value="ContentQuiz" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="500" y="450" width="450" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vk0R5IiIe_Y5SwKin8Wv" name="Page-10">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hF03D1w2wX14lXZbBflF-0" />
+        <mxCell id="hF03D1w2wX14lXZbBflF-1" parent="hF03D1w2wX14lXZbBflF-0" />
+        <mxCell id="ktLS2GETfey2CNvXhuk6-0" value="CreteTest" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="hF03D1w2wX14lXZbBflF-1">
+          <mxGeometry x="210" y="190" width="810" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ktLS2GETfey2CNvXhuk6-2" value="Header" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="hF03D1w2wX14lXZbBflF-1">
+          <mxGeometry x="270" y="240" width="690" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ktLS2GETfey2CNvXhuk6-6" value="InfoTest" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="hF03D1w2wX14lXZbBflF-1">
+          <mxGeometry x="270" y="350" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ktLS2GETfey2CNvXhuk6-7" value="ContentTest" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="hF03D1w2wX14lXZbBflF-1">
+          <mxGeometry x="510" y="350" width="450" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
