@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T14:07:15.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="4SCi6a4SebrztMPTKck2" version="14.7.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-06-14T14:19:00.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="IBYPf0Kq9MdYI7qVklwB" version="14.7.7" type="github" pages="9">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2272" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -532,28 +532,28 @@
       <root>
         <mxCell id="A3N41Xnlo9Hr5TQRYDhD-0" />
         <mxCell id="A3N41Xnlo9Hr5TQRYDhD-1" parent="A3N41Xnlo9Hr5TQRYDhD-0" />
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-2" value="QuizManagement" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-2" value="QuizManagement" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="210" y="190" width="810" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-3" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-3" value="Header1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="270" y="240" width="220" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-4" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-4" value="Header2" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="500" y="240" width="460" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-5" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-5" value="Title" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="300" y="290" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-6" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-6" value="TabFunction" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="300" y="350" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-7" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-7" value="ItemTemplate" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="560" y="300" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-8" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-8" value="ListSlide" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="270" y="450" width="220" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-9" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
+        <mxCell id="A3N41Xnlo9Hr5TQRYDhD-9" value="ContentQuiz" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="A3N41Xnlo9Hr5TQRYDhD-1">
           <mxGeometry x="500" y="450" width="450" height="180" as="geometry" />
         </mxCell>
       </root>
