@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T13:49:47.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PEq82Wy9WDv0qBMozC5x" version="14.8.0" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2021-06-18T13:54:49.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="nK42c6GjFSO65r4fgnuq" version="14.8.0" type="github" pages="27">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="SĐ hoạt độnng quiz">
     <mxGraphModel dx="2272" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C5T6NhoQJHavE5retww-" name="Page-3">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aNxoHA65ITYfBNqXu5NM-0" />
         <mxCell id="aNxoHA65ITYfBNqXu5NM-1" parent="aNxoHA65ITYfBNqXu5NM-0" />
@@ -365,7 +365,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLAkPGw_2X3evku6qd_u" name="Page-4">
-    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ilng-3A7PkeyfqE1Orct-0" />
         <mxCell id="Ilng-3A7PkeyfqE1Orct-1" parent="Ilng-3A7PkeyfqE1Orct-0" />
@@ -400,10 +400,10 @@
         <mxCell id="Ilng-3A7PkeyfqE1Orct-10" value="Hệ thống TTS" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=18;fontStyle=1" parent="Ilng-3A7PkeyfqE1Orct-1" vertex="1">
           <mxGeometry x="740" y="260.5" width="62" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="Ilng-3A7PkeyfqE1Orct-11" value="" style="endArrow=classic;html=1;fontSize=18;fontStyle=1" parent="Ilng-3A7PkeyfqE1Orct-1" source="Ilng-3A7PkeyfqE1Orct-10" edge="1">
+        <mxCell id="Ilng-3A7PkeyfqE1Orct-11" value="" style="endArrow=classic;html=1;fontSize=18;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Ilng-3A7PkeyfqE1Orct-1" source="Ilng-3A7PkeyfqE1Orct-5" edge="1" target="Ilng-3A7PkeyfqE1Orct-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="315" as="sourcePoint" />
-            <mxPoint x="570" y="315" as="targetPoint" />
+            <mxPoint x="730" y="355" as="sourcePoint" />
+            <mxPoint x="770" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ilng-3A7PkeyfqE1Orct-12" value="Xem bài tập" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="Ilng-3A7PkeyfqE1Orct-1" vertex="1">
@@ -415,10 +415,10 @@
             <mxPoint x="370" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ilng-3A7PkeyfqE1Orct-14" value="" style="endArrow=classic;html=1;fontSize=18;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Ilng-3A7PkeyfqE1Orct-1" source="Ilng-3A7PkeyfqE1Orct-10" target="Ilng-3A7PkeyfqE1Orct-9" edge="1">
+        <mxCell id="Ilng-3A7PkeyfqE1Orct-14" value="" style="endArrow=classic;html=1;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Ilng-3A7PkeyfqE1Orct-1" source="Ilng-3A7PkeyfqE1Orct-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
-            <mxPoint x="440" y="360" as="targetPoint" />
+            <mxPoint x="730" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
